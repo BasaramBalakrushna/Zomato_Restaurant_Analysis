@@ -28,6 +28,8 @@ Zomato Business Analysis is an interactive analytics project built using Power B
 
 
 📁 Project Structure
+
+
 ├───assets
 │       city_wise.png
 │       avg_rat.png
@@ -50,11 +52,15 @@ Zomato Business Analysis is an interactive analytics project built using Power B
         zomato_analysis_comprehensive_report.pdf
 
 
+
+
+
+
 🧪 Setup & Usage
 
 Open Power BI File:
 
-Open powerBI/zomato_insights_dashboard.pbix with Power BI Desktop.
+Open powerBI/https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop
 
 Explore Dataset:
 
@@ -63,6 +69,39 @@ Raw dataset used: data/zomato_data.xlsx.
 View Reports:
 
 📄 PDF: reports/zomato_analysis_comprehensive_report.pdf
+
+
+📷 Screenshots
+
+🔹 Zomato Dashboard Snapshot
+
+
+
+<img width="992" height="557" alt="image" src="https://github.com/user-attachments/assets/d86a4f70-42b9-4fce-8200-e1e840a63316" />
+
+
+
+🔹 Table Booking & Online Order Analysis
+
+
+
+<img width="995" height="558" alt="image" src="https://github.com/user-attachments/assets/314e057a-d2d0-403c-9187-e7c7c214b1b1" />
+
+
+👨‍💻 Developer
+
+Basaram Balakrushna
+
+GitHub:    https://github.com/BasaramBalakrushna?tab=repositories
+
+LinkedIn: https://www.linkedin.com/in/basaram-balakrushna-468b46314/
+
+ 
+
+
+
+
+
 
 
 
