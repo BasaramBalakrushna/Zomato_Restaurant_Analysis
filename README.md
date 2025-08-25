@@ -9,4 +9,18 @@ Zomato Business Analysis is an interactive analytics project built using Power B
 
 
 
+✨ Features
+
+📊 Visual Storytelling: Understand trends in restaurant ratings, average costs, and online ordering behavior.
+📌 Detailed Dashboards: Summary, overview, and deep-dive views powered by Power BI.
+🌍 Geographic Insights: Heatmaps show regional restaurant density and performance.
+🍽️ Cuisine Analysis: Breakdowns of popular cuisines and their impact on business.
+📈 Rating & Cost Trends: Analyze the relationship between restaurant ratings and average cost.
+📤 Exportable Reports: Includes PDF and HTML formats for presentations and sharing.
+💡 Actionable Insights: Designed to help stakeholders make informed decisions regarding restaurant strategies and market positioning.
+
+
+
+
+
 
